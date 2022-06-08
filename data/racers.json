@@ -1,0 +1,44 @@
+[
+  {
+    "id": "22339a83-cd1d-4edd-9363-ab6547a30d51",
+    "firstName": "Maximilian",
+    "lastName": "Benecke",
+    "iRating": 11000,
+    "team": {
+      "name": "Team Redline",
+      "manager": "Atze Kerkhof",
+      "hq_city": "Amsterdam",
+      "hq_country": "Netherlands"
+    },
+    "nationality": "Germany",
+    "nationality_code": "DE"
+  },
+  {
+    "id": "9ba51ef0-e006-40b9-b080-6aaaf14e36af",
+    "firstName": "Josh",
+    "lastName": "Rogers",
+    "iRating": 9800,
+    "team": {
+      "name": "Coanda Esports",
+      "manager": "Philip Stamm",
+      "hq_city": "Hamburg",
+      "hq_country": "Germany"
+    },
+    "nationality": "Australia",
+    "nationality_code": "AU"
+  },
+  {
+    "id": "5c45d66b-1042-41ec-84f4-807c46b3d08e",
+    "firstName": "Kevin",
+    "lastName": "Ellis",
+    "iRating": 9300,
+    "team": {
+      "name": "Apex Racing Team",
+      "manager": "Alex Simpson",
+      "hq_city": "Corby",
+      "hq_country": "United Kingdom"
+    },
+    "nationality": "United Kingdom",
+    "nationality_code": "UK"
+  }
+]
